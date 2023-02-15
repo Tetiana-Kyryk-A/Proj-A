@@ -4,6 +4,10 @@
 #include <iostream>
 using namespace std;
 void print();
+int max(int a, int b)
+{
+    return a > b ? a : b;
+}
 int main()
 {
     print(); // call  print
