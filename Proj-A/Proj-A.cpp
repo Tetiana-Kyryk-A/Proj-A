@@ -9,3 +9,7 @@ int main()
     std::cout << "Hello World!\n";
 }
 
+void print()
+{
+    cout << "I  am print()\n";
+}
