@@ -2,7 +2,8 @@
 //
 
 #include <iostream>
-
+using namespace std;
+void print();
 int main()
 {
     std::cout << "Hello World!\n";
